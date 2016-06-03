@@ -1,3 +1,6 @@
+Position = "fixed" -> "absolute" Style changer
+===============================
+
 firefox-for-android-addons
 ==========================
 
